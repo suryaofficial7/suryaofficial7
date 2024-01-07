@@ -73,7 +73,6 @@
 <br>
 
 <img align="left" src="svg/webdevelopment.svg" height="277px"/>
-<br>
 ```
     Contact Me :-
     ------------------------------------------
