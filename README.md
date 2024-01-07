@@ -1,6 +1,3 @@
-<p align="center">
-</p>
-
 <h2 align="center">Hi There</h2>
 <p align="center">My name is Surya and welcome to my github profile</p>
 <img align="left" src="svg/inspiration.svg" height="222px"/>
@@ -35,6 +32,10 @@
                 <img src="icons/javascript.png" width="65px"/>
                 <br /> Javascript
             </td>
+             <td align="center" width="140" height="112.43">
+                <img src="icons/javascript.png" width="65px"/>
+                <br /> Javascript
+            </td>
                     </tr>
 
 <tr>
@@ -50,6 +51,10 @@
                 <img src="icons/php.png" width="65px"/>
                 <br /> Php
             </td>
+     <td align="center" width="140" height="112.43">
+                <img src="icons/javascript.png" width="65px"/>
+                <br /> Javascript
+            </td>
         </tr>
         <tr>
             <td align="center" width="140" height="112.43">
@@ -63,6 +68,10 @@
             <td align="center" width="140" height="112.43">
                 <img src="icons/linux.png" width="65px"/>
                 <br /> Linux
+            </td>
+             <td align="center" width="140" height="112.43">
+                <img src="icons/javascript.png" width="65px"/>
+                <br /> Javascript
             </td>
         </tr>
     </table>
