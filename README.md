@@ -66,7 +66,9 @@
             </td>
         </tr>
     </table>
-    <img src="svg/artificialintelligence.svg" height="225px"/>
+
+<img align="left" src="svg/webdevelopment.svg" height="277px"/>
+    
 
 </div>
 
@@ -76,8 +78,8 @@
 <br>
 <br>
 
+<img src="svg/artificialintelligence.svg" height="225px"/>
 
-<img align="left" src="svg/webdevelopment.svg" height="277px"/>
 ```
     Contact Me :-
     ------------------------------------------
