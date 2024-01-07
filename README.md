@@ -9,7 +9,6 @@
 -> ~/Portfolio git:(main) > ./start.sh
 ```
 
-<img align="left" src="svg/givingback.svg" height="222px"/>
 
 ```csharp
     Human Information
