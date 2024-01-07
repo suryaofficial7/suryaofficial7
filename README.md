@@ -4,7 +4,7 @@
 <h2 align="center">Hi There</h2>
 <p align="center">My name is Surya and welcome to my github profile</p>
 
-<img align="left" src="svg/givingback.svg" height="222px"/>
+<img src="svg/inspiration.svg" width="480px"/>
 
 
 ```csharp
@@ -74,7 +74,7 @@
 <br>
 
 <img align="left" src="svg/webdevelopment.svg" height="277px"/>
-
+<br>
 ```
     Contact Me :-
     ------------------------------------------
