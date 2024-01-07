@@ -1,16 +1,94 @@
-### Hi there 👋
+<p align="center">
+    <img src="svg/inspiration.svg" width="480px"/>
+</p>
 
-<!--
-**suryaofficial7/suryaofficial7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hi There</h2>
+<p align="center">My name is Damian and welcome to my github profile</p>
 
-Here are some ideas to get you started:
+```zsh
+-> ~/Portfolio git:(main) > ./start.sh
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" src="svg/givingback.svg" height="222px"/>
+
+```csharp
+    Human Information
+    ------------------------------------------
+    Name: Surya Sk
+    Nickname: Surya
+    Gender: Male
+    Age: 21
+    Hobbies: ["Coding"], ["Music"], ["Swimming"]
+    Languages: ["English IN"], ["Tamil"],["Kannada"], ["Marathi"], ["Hindi"]
+    Occupation: Full Stack Developer
+```
+
+<br>
+
+<div align="center">
+    <table align="left">
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/node.png" width="65px"/>
+                <br /> Node Js
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/python.png" width="65px"/>
+                <br /> python
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/javascript.png" width="65px"/>
+                <br /> Javascript
+            </td>
+                    </tr>
+
+<tr>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/csharp.png" width="65px"/>
+                <br /> C#
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/java.png" width="65px"/>
+                <br /> Java
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/php.png" width="65px"/>
+                <br /> Php
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/mysql.png" width="65px"/>
+                <br /> MySQL
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/mongodb.png" width="65px"/>
+                <br /> MongoDB
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/linux.png" width="65px"/>
+                <br /> Linux
+            </td>
+        </tr>
+    </table>
+    <img src="svg/artificialintelligence.svg" height="225px"/>
+
+</div>
+
+<br>
+
+<img align="left" src="svg/webdevelopment.svg" height="277px"/>
+
+```
+    Contact Me :-
+    ------------------------------------------
+    Email :
+    Linkedin :
+    Twitter :
+    Instagram :
+    Youtube :
+    Website :
+    GitHub :
+    My-Projects :
+
+```
