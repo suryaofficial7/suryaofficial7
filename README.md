@@ -36,6 +36,14 @@
                 <img src="icons/javascript.png" width="65px"/>
                 <br /> Javascript
             </td>
+             <td align="center" width="140" height="112.43">
+                <img src="icons/javascript.png" width="65px"/>
+                <br /> Javascript
+            </td>
+             <td align="center" width="140" height="112.43">
+                <img src="icons/javascript.png" width="65px"/>
+                <br /> Javascript
+            </td>
                     </tr>
 
 <tr>
@@ -55,6 +63,14 @@
                 <img src="icons/javascript.png" width="65px"/>
                 <br /> Javascript
             </td>
+     <td align="center" width="140" height="112.43">
+                <img src="icons/javascript.png" width="65px"/>
+                <br /> Javascript
+            </td>
+     <td align="center" width="140" height="112.43">
+                <img src="icons/javascript.png" width="65px"/>
+                <br /> Javascript
+            </td>
         </tr>
         <tr>
             <td align="center" width="140" height="112.43">
@@ -68,6 +84,14 @@
             <td align="center" width="140" height="112.43">
                 <img src="icons/linux.png" width="65px"/>
                 <br /> Linux
+            </td>
+             <td align="center" width="140" height="112.43">
+                <img src="icons/javascript.png" width="65px"/>
+                <br /> Javascript
+            </td>
+             <td align="center" width="140" height="112.43">
+                <img src="icons/javascript.png" width="65px"/>
+                <br /> Javascript
             </td>
              <td align="center" width="140" height="112.43">
                 <img src="icons/javascript.png" width="65px"/>
