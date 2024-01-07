@@ -1,13 +1,10 @@
 <p align="center">
-    <img src="svg/inspiration.svg" width="480px"/>
 </p>
 
 <h2 align="center">Hi There</h2>
-<p align="center">My name is Damian and welcome to my github profile</p>
+<p align="center">My name is Surya and welcome to my github profile</p>
 
-```zsh
--> ~/Portfolio git:(main) > ./start.sh
-```
+<img align="left" src="svg/givingback.svg" height="222px"/>
 
 
 ```csharp
