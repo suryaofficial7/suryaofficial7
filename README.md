@@ -16,6 +16,7 @@
 ```
 
 <br>
+<center>
 
 <div align="center">
     <table align="left">
@@ -100,10 +101,11 @@
         </tr>
     </table>
 
-<img align="left" src="svg/webdevelopment.svg" height="277px"/>
     
 
 </div>
+</center>
+<img align="left" src="svg/webdevelopment.svg" height="277px"/>
 
 <br>
 <br>
