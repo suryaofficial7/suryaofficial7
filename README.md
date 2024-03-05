@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Fullstack Development and Android dev With Kotlin.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br> React js With TS.<br><br>💬 **Ask me about:**  <br>HTML , CSS ,JavaScript, React, NodeJs,Php,sql,Postgress, MongoDB,java,python, VPS , MS Office and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
+🔭 **I’m currently working on:**  <br>Fullstack Development and Android dev With Kotlin.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br> React js With TS.<br><br>💬 **Ask me about:**  <br>HTML , CSS ,JavaScript , Bootstrap , Tailwind Css, React, NodeJs,Php,sql,Postgress, MongoDB,java,python, VPS , MS Office and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
 
 
 ## 🌐 Socials:
